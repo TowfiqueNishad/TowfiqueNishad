@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">A provocative Computer Science student from Bangladesh.<br>I’m currently working on with AI, ML and BI models.<br>Passionate to learn different programming languages and working on skill development.<br>Thank you!</p>
+<p align="left">I am Towfique Nishad, a Computer Science undergraduate at BRAC University with a strong academic foundation. I am naturally analytical, detail-oriented, and driven by curiosity—especially when it comes to understanding patterns hidden within data. Alongside my academic journey, I have gained practical experience in data analysis, where I developed the ability to clean, analyze, and visualize data to extract meaningful insights. I value clarity, consistency, and accuracy in my work and enjoy turning complex information into understandable outcomes. I am a disciplined learner with a growth mindset, continuously improving my technical and analytical skills while maintaining a strong sense of responsibility and professionalism.<br>Thank you!</p>
 
 ###
 
@@ -56,15 +56,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TowfiqueNishad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TowfiqueNishad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
